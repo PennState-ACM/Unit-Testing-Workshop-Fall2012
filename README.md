@@ -1,4 +1,4 @@
 Unit-Testing-Workshop-Fall2012
 ==============================
 
-woo!
+Java example for unit testing workshop.
